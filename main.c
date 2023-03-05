@@ -80,9 +80,7 @@ bool haveConflict(char ** evento1, char ** evento2) {
         if ( *(*evento1) == *(*evento2) ) {
             if ( *(*evento1 + 1) == *(*evento2 + 1) ) {
                 if ( *(*evento1 + 3) == *(*evento2 + 3) ) {
-                    if ( *(*evento1 + 4) == *(*evento2 + 4) ) {
-                        return verdadeiro;
-                    } else if ( *(*evento1+4) > *(*evento2+4) ) {
+                    if ( *(*evento1+4) > *(*evento2+4) ) {
                         return verdadeiro;
                     } else {
                         return falso;
