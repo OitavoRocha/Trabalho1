@@ -17,4 +17,4 @@ Fiz diversas mudanças no código feito em aula, apesar do mesmo estar compiland
 
 Apesar de saber dos erros e warnings, fiz o que consegui durante o tempo de aula e mudei algumas coisas em casa.
 
-###### Link para o vídeo: 
+###### Link para o vídeo: https://drive.google.com/file/d/13hiEjhtojp-XhNmn9g9G8HZCRhf6EE93/view?usp=sharing
